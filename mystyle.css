@@ -1,0 +1,9 @@
+h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    text-shadow: 4px 3px 2px violet;
+}
+
+p{
+    font-size: 30px;
+}
